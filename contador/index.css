@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+*{
+    background-color: #ffcef4;
+    color: #19395c;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+button {
+    background-color: #856ab1;
+    border: none;
+    border-radius: 10px;
+    color: #ffcef4;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+p, span {
+    font-weight: 600;
+}

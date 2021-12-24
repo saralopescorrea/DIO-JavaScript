@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+*{
+    background-color: #ffcef4;
+    color: #19395c;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#tarefa {
+    background-color: white;
+    border: none;
+    border-radius: 3px;
+    padding: 7px;
+}
+
+button {
+    background-color: #7166ad;
+    color: white;
+    cursor: pointer;
+    border-radius: 3px;
+    border: none;
+    padding: 7px;
+}

@@ -1,1 +1,0 @@
-alert('Tudo certo no seu primeiro script!');

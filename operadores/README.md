@@ -1,6 +1,6 @@
 # Sintaxe e Operadores
 
-## Exercício proposto pela @stebsnusch no curso de JavaScript da DIO
+<h2> Exercício proposto pela <a href="https://github.com/stebsnusch"> stebsnusch </a> no curso de JavaScript da DIO
 
 ### Atividade:
 
